@@ -23,3 +23,6 @@ git config user.email "jamesclark2016"
 git config user.name "James Alex Clark"
 git push origin master (to send the local changes to the origin on github master branch
 it will ask for a login (username and password)
+
+# To update from the web server where new_branch is the name of the thing you want to pull
+git pull origin new_branch
