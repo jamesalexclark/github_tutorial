@@ -22,4 +22,4 @@ you need to give it your name and email:
 git config user.email "jamesclark2016"
 git config user.name "James Alex Clark"
 git push origin master (to send the local changes to the origin on github master branch
-it will ask for a login (username
+it will ask for a login (username and password)
